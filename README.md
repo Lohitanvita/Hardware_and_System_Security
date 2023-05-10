@@ -13,14 +13,13 @@ Note: Install dependencies when required
 
 # Django Project Structure
                                                               
-                                                              |--------Password_Generation_and_Strength_Analyzer(Django Project) to run the application
-Password_Generation_and_Strength_Analyzer (Django_Project)----|                                        |-----templates (HTML files)
-                                                              |--------Strength_Check (Django APP) ----|----- static (Data, JS, CSS)
-                                                              |                                        |------Python files (code logic, algorithms)
-                                                              |-------- manage.py (A command-line utility that lets you interact with this Django project in various ways like migrating dependencies, running server, etc)  
+<img width="547" alt="image" src="https://github.com/Lohitanvita/Hardware_and_System_Security/assets/87051664/52ac86d6-abbc-4593-b4ac-918dc10c3f5a">
+ 
                                                   
- After successful web application run, you will see a the below pages appearing on screen                                        
+ After successful web application run, you will see a the below pages appearing on screen 
+ 
  <img width="959" alt="image" src="https://github.com/Lohitanvita/Hardware_and_System_Security/assets/87051664/ae455543-6d8d-4b35-97b0-1c57c778804a">
+ 
 <img width="959" alt="image" src="https://github.com/Lohitanvita/Hardware_and_System_Security/assets/87051664/1637377d-69c9-4d0d-850c-6ca6e39b8141">
 
 
