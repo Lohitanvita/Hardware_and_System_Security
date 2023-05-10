@@ -1,8 +1,8 @@
 # Hardware_and_System_Security
 A Web Application to Generate a Strong Password and Verify your Password Strength
-The applicaion is built using Django framwork in PyCharm Community edition. The technologies involved in this application are HTML5, CSS3, JavaScript, Python 3.8, Django, Machine Learning and PyCharm Community Edition 2021.1.2
+The application is built using Django framework in PyCharm Community edition. The technologies involved in this application are HTML5, CSS3, JavaScript, Python 3.8, Django, Machine Learning and PyCharm Community Edition 2021.1.2
 # Setup and Implementation
-1. Install PyCharm, Python 3.8 and make sure python is recognized by the system otherwise add Path to system environment variables.
+1. Install PyCharm Community edition (Python IDE) from JetBrains, Python 3.8 and make sure python is recognized by the system otherwise add Path to system environment variables.
 2. Install Django either using "pip install django" in PyCharm terminal or add Django from Pycharm 'settings'
 3. After making sure Django is installed and Python 3.8 is configured in Pycharm, download the folder 'Password_Generation_and_Strength_Analyzer'
 4. Now go to File > Open and choose the dowloaded folder. This folder is recognized as Django Project
