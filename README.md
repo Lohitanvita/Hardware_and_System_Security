@@ -16,7 +16,7 @@ Note: Install dependencies when required
 <img width="547" alt="image" src="https://github.com/Lohitanvita/Hardware_and_System_Security/assets/87051664/52ac86d6-abbc-4593-b4ac-918dc10c3f5a">
  
                                                   
- After successful web application run, you will see a the below pages appearing on screen 
+ After successful web application run, you will see below pages appearing on screen 
  
  <img width="959" alt="image" src="https://github.com/Lohitanvita/Hardware_and_System_Security/assets/87051664/ae455543-6d8d-4b35-97b0-1c57c778804a">
  
